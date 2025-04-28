@@ -54,7 +54,7 @@ This application is deployed on Glitch at [your-glitch-url].
 
 ## GitHub Repository
 
-[Link to GitHub Repository]
+(https://github.com/EdwardSnowdensDad/express-bar)
 
 ## Author
 

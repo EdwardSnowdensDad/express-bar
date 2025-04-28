@@ -1,8 +1,8 @@
-# Three-Route Express Application with Flexbox Navigation
+# Three-Route Express Application with Flexbox Navigation 😎💪💻
 
 This is a Node.js/Express application that showcases three different assignments through a Flexbox navigation system.
 
-## Assignment Overview
+## Assignment Overview 📝👀
 
 This project is a solution to the CSC 317 Homework assignment that requires creating an Express application with three routes:
 
@@ -12,14 +12,14 @@ This project is a solution to the CSC 317 Homework assignment that requires crea
 
 The application features a navigation bar built with Flexbox that allows users to navigate between these three assignment pages.
 
-## Features
+## Features 🤓
 
 - Node.js/Express server with multiple routes
 - Responsive Flexbox navigation
 - Individual pages for each assignment with links to GitHub repositories
 - Mobile-friendly design
 
-## Project Structure
+## Project Structure 🪜🔨
 
 ```
 .
@@ -31,7 +31,7 @@ The application features a navigation bar built with Flexbox that allows users t
 └── README.md                # Documentation
 ```
 
-## How to Run Locally
+## How to Run Locally 🏃‍♂️🏠
 
 1. Clone this repository
 2. Install dependencies:
@@ -44,18 +44,18 @@ The application features a navigation bar built with Flexbox that allows users t
    ```
 4. Open your browser and navigate to `http://localhost:3000`
 
-## Deployment
+## Deployment 🚀
 
-This application is deployed on Glitch at [your-glitch-url].
+This application is deployed on Glitch at https://enormous-curious-quiet.glitch.me
 
-## Dependencies
+## Dependencies 🧗‍♂️
 
 - Express.js: Fast, unopinionated, minimalist web framework for Node.js
 
-## GitHub Repository
+## GitHub Repository 👽
 
-(https://github.com/EdwardSnowdensDad/express-bar)
+https://github.com/EdwardSnowdensDad/express-bar
 
-## Author
+## Author 🗿
 
 John Martinez
